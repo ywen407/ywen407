@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Ezra's github stats](https://github-readme-stats.vercel.app/api?username=ywen407&theme=dark&show_icons=true)](https://github.com/ywen407/github-readme-stats)
+[![Ezra's github stats](https://github-readme-stats.vercel.app/api?username=ywen407&theme=vue&show_icons=true)](https://github.com/ywen407/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywen407&layout=compact&langs_count=10&theme=dark&show_icons=true)](https://github.com/ywen407/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywen407&layout=compact&langs_count=10&theme=vue&show_icons=true)](https://github.com/ywen407/github-readme-stats)
 <!--
 **ywen407/ywen407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
