@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![Ezra's github stats](https://github-readme-stats.vercel.app/api?username=ywen407&theme=vue&show_icons=true)](https://github.com/ywen407/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywen407&layout=compact&langs_count=10&theme=vue&show_icons=true)](https://github.com/ywen407/github-readme-stats)
